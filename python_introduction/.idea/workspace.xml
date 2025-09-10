@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b75133f-8062-41a8-9323-8753326de4d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hours_to_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.basic_operations.executor": "Run",
+    "Python.future_age_calculator.executor": "Run",
     "Python.hours_to_seconds.executor": "Run",
     "Python.rectangle_area.executor": "Run",
     "Python.simple_interest.executor": "Run",
@@ -90,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757519909192</updated>
-      <workItem from="1757519910468" duration="1722000" />
+      <workItem from="1757519910468" duration="2333000" />
     </task>
     <servers />
   </component>
@@ -112,6 +114,7 @@
     <SUITE FILE_PATH="coverage/python_introduction$basic_operations.coverage" NAME="basic_operations Coverage Results" MODIFIED="1757519933499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_introduction$rectangle_area.coverage" NAME="rectangle_area Coverage Results" MODIFIED="1757521332933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_introduction$simple_interest.coverage" NAME="simple_interest Coverage Results" MODIFIED="1757521089437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_introduction$future_age_calculator.coverage" NAME="future_age_calculator Coverage Results" MODIFIED="1757521863203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_introduction$hours_to_seconds.coverage" NAME="hours_to_seconds Coverage Results" MODIFIED="1757521634457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
