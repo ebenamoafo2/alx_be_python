@@ -3,7 +3,7 @@
 #time with a value of 3 (representing 3 years).
 
 principal = 1000
-rate = 5 /100
+rate = 0.05
 time = 3
 
 interest = principal * rate * time
