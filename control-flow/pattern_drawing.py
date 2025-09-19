@@ -1,6 +1,13 @@
 # Ask the user for the size of the pattern
-pattern = int(input('Enter the size of the pattern: '))
+size = int(input("Enter the size of the pattern: "))
 
-# Use a for loop to print each row
-for _ in range(pattern):
-    print('*' * pattern)
+# Initialize row counter
+row = 0
+
+# While loop for rows
+while row < size:
+    # For loop for columns
+    for _ in range(size):
+        print("*", end="")
+    print()  # Move to the next line
+    row += 1
