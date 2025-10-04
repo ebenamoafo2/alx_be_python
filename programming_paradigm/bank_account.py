@@ -3,12 +3,11 @@ class BankAccount:
         self.account_balance = initial_balance
 
     def deposit(self, amount):
-        """Add funds to the account"""
         if amount > 0:
             self.account_balance += amount
-            print(f"Deposited {amount}.")
+            print(f'Deposited {amount} to {self.account_balance}')
         else:
-            print("Deposit amount must be positive.")
+            print(f'Not deposited {amount}')
 
     def withdraw(self, amount):
         """Withdraw funds if balance is sufficient"""
@@ -25,4 +24,4 @@ class BankAccount:
 
     def display_balance(self):
         """Show the current account balance"""
-        print(f"Current balance: {self.account_balance}")
+        print(f"Current Balance: {self.account_balance}")
